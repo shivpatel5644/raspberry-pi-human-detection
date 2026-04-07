@@ -1,0 +1,2 @@
+timestamp,fps,latency_ms,cpu_percent,ram_mb,detections,decision
+2026-03-06T00:49:12,1.89,379.46,293.70,249.79,2,FOLLOW

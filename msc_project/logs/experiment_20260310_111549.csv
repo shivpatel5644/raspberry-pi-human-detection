@@ -1,0 +1,2 @@
+timestamp,fps,detection_count,person_detected,obstacle_detected,decision
+2026-03-10 11:15:52,2.18,0,False,False,IDLE

@@ -1,0 +1,5 @@
+timestamp,fps,object_count,obstacle_detected,person_detected,person_center_x,frame_center_x,distance_ratio,steering_percent,movement_command
+2026-03-12 01:48:18,2.12,1,False,True,295,320,0.9273,7,MOVE BACKWARD
+2026-03-12 01:48:19,2.06,2,True,True,-1,320,0.0000,0,AVOID
+2026-03-12 01:48:19,2.78,1,False,True,291,320,0.9132,9,MOVE BACKWARD
+2026-03-12 01:48:20,2.92,3,True,True,-1,320,0.0000,0,AVOID

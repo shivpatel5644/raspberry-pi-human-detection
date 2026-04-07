@@ -1,0 +1,2 @@
+timestamp,fps,object_count,person_detected,obstacle_detected,decision
+2026-03-12 01:09:55,1.66,2,True,True,AVOID
