@@ -51,9 +51,6 @@ Camera Input → Object Detection → Target Tracking → Behaviour Decision →
 ## 📂 Project Structure
 
 ```
-## 📂 Project Structure
-
-```
 .
 ├── Results/
 │   ├── frames/                # Extracted frames from experiments
@@ -87,9 +84,6 @@ Camera Input → Object Detection → Target Tracking → Behaviour Decision →
 └── README.md
 ```
 
-```
-
----
 
 ## ▶️ How to Run
 
