@@ -51,21 +51,42 @@ Camera Input → Object Detection → Target Tracking → Behaviour Decision →
 ## 📂 Project Structure
 
 ```
-project/
+## 📂 Project Structure
+
+```
+.
+├── Results/
+│   ├── frames/                # Extracted frames from experiments
+│   ├── *.mp4 / *.avi         # Recorded experiment videos
+│   ├── *.png                 # Sample outputs and screenshots
+│
+├── logs/
+│   ├── *.csv                 # FPS logs and experiment data
+│
+├── models/
+│   ├── yolov8n.onnx
+│   ├── yolov8n_416.onnx
+│   ├── yolov8n_seg_416.onnx
 │
 ├── src/
 │   ├── live_demo_tracking.py
+│   ├── live_demo_target_lock.py
+│   ├── live_demo_tracking_smooth.py
 │   ├── seg_demo.py
 │   ├── browser_stream_tracking.py
+│   ├── record_tracking_experiment.py
+│   ├── record_target_lock_experiment.py
+│   └── other utility scripts
 │
-├── experiments/
-│   ├── logs/
-│   ├── recordings/
-│
-├── models/
-│   ├── yolov7.onnx
-│
+├── camera_pi_fps.py
+├── camera_pi_fps_picamera2.py
+├── yolo8_onnx_pi.py
+├── yolo_pi_logger.py
+├── requirements.txt
+├── .gitignore
 └── README.md
+```
+
 ```
 
 ---
