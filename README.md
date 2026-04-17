@@ -95,7 +95,7 @@ This project was developed as part of an MSc dissertation focused on **real-time
 
 ## 📸 Sample Outputs
 
-*(Add your screenshots here for detection, tracking, and segmentation results)*
+
 
 ---
 
